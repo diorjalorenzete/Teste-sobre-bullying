@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "Qual é o tipo mais comum de bullying nas escolas?",
         alternativas: [
             {
-                texto: "Bullying Verbal!",
+                texto: "Bullying Verbal",
                 afirmacao: [
                     "O tipo mais comum de bullying inclui insultos e comentários depreciativos, que podem afetar a autoestima da vítima.",
                     "O bullying pode ser menos visível para os outros, tornando mais difícil para os professores e pais perceberem."
@@ -122,7 +122,7 @@ export const perguntas = [
                     "Reagir com raiva pode intensificar o conflito e dificultar a resolução de problemas, enquanto evitar o confronto pode deixar a situação sem solução.",
                     "Essas reações podem refletir dificuldades em lidar com conflitos e sentimentos negativos, impactando a resolução efetiva da situação."
                 ],
-                proxima: 7,
+            
             },
         ]
     },
